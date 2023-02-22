@@ -1,0 +1,64 @@
+.img-logo{
+    width: 100%;
+    height: auto;
+    
+}
+
+.link-logo{
+    display: inline-block;
+    width: 10%;
+    margin-right: 20px;
+}
+.nav1{
+    background-color:#c10100;
+}
+
+.article{
+    background-image: url(img/Imagen_seccion_tradicional.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 750px;
+}
+svg{
+    width: 60px;
+    height: auto;
+    fill: #ffffff;
+    padding: 10px;
+}
+.yout:hover{
+    fill: #c10100;
+}
+.tik:hover{
+    fill: #000000;
+}
+
+.inst:hover{
+    fill: #c64c40;
+}
+.twi:hover{
+    fill: #3ca0e8;
+}
+
+.face:hover{
+    fill: #00357b;
+}
+.img-coffee{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+.omg{
+    background-color: #c10100;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+.bg-aside{
+    background-color: #5a0100;
+}
+aside{
+    width: 100%;
+    height: 100%;
+}
